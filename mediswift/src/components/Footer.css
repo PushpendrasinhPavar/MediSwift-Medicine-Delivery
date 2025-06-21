@@ -1,0 +1,40 @@
+.footer {
+  background-color: #010009f0;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-social {
+  margin: 15px 0;
+}
+
+.footer-social span {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.footer-social a {
+  color: #00aaff;
+  margin: 0 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.footer-social a:hover {
+  color: #e3004c;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #00aaff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}

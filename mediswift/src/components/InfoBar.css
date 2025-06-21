@@ -1,0 +1,17 @@
+.info-bar {
+  background-color: #e0f7fa;
+  padding: 20px;
+  text-align: center;
+}
+
+.info-bar h2 {
+  color: #00796b;
+  margin-bottom: 15px;
+}
+
+.info-inputs input {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

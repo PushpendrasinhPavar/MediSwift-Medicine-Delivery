@@ -1,0 +1,38 @@
+.medicine-heading {
+  padding: 20px;
+  text-align: left;
+}
+
+.medicine-heading h1 {
+  color: #00aaff; 
+}
+
+.medicine-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.explore-more-container {
+  text-align: right;
+  padding: 20px;
+}
+
+.explore-more-button {
+  background-color: #2aa40e;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.explore-more-button:hover {
+  background-color: #e3004c;
+}
+
+a:hover {
+  color: #0056b3;
+}
